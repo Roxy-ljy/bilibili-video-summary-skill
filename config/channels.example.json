@@ -1,0 +1,22 @@
+{
+  "channels": [
+    {
+      "name": "All About AI",
+      "id": "UCyFqFYfTW2VoIQKylJ04Rtw",
+      "url": "https://www.youtube.com/@AllAboutAI"
+    },
+    {
+      "name": "Two Minute Papers",
+      "id": "UCbfYPyITQ-7l4upoX8nvctg",
+      "url": "https://www.youtube.com/@TwoMinutePapers"
+    },
+    {
+      "name": "Lex Fridman",
+      "id": "UCSHZKyawb77ixDdsGog4iWA",
+      "url": "https://www.youtube.com/@lexfridman"
+    }
+  ],
+  "hours_lookback": 24,
+  "min_duration_seconds": 300,
+  "max_videos_per_channel": 5
+}

@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+youtube-summarizer/venv/
+podcast-summarizer/venv/
+
+# Cache
+.cache/
+*.cache
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Config (may contain sensitive data)
+**/config/local.json
+**/config/production.json
+
+# Output
+/tmp/
+*.json.bak
+
+# Secrets
+.env
+.env.local
+*.key
+*.pem
